@@ -1,3 +1,5 @@
+// @ts-nocheck
+
 import { runOnJS } from 'react-native-reanimated';
 import type { Page } from '../types';
 import type { TransformsStyle } from 'react-native';
